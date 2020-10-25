@@ -1,5 +1,5 @@
 
-# Project for COMP9517
+# Project for COMP9517 ( Computer Vision )
 
 ## Tasks
 ### Task 1
