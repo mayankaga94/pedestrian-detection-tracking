@@ -1,5 +1,5 @@
 
-# COMP9517 20T1 Group Project
+# Project for COMP9517
 
 ## Tasks
 ### Task 1
