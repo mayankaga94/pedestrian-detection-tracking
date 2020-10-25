@@ -1,0 +1,29 @@
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.eslintrc
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# python files
+__pycache__/
+*.py[cod]
+venv
+
+# data files
+Group_Component
+output
+result
+*.pt
+*.t7
+
+# except our weights
+!*/weights/myweights.pt
